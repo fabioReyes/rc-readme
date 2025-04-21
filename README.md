@@ -1,1 +1,1 @@
-![Demo GIF](resources/VSCE-prod.gif)
+![Demo GIF](VSCE-prod.gif)
